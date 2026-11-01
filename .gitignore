@@ -1,0 +1,63 @@
+ComfyUI & AI Model Checkpoints (Heavy Binaries)
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+Compressed Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+Output Media & Renders (Keep repo lightweight)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.webm
+*.mov
+*.wav
+*.mp3
+Python & Environment Cache
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+Jupyter & Editor Configuration
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+RunPod & Local Logs
+*.log
+runpod.log
+comfyui.log
